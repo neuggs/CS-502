@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "ai.azureml.defaultWorkspaceId": "/subscriptions/c7605e12-3018-40ec-92b8-bfbdac6f2486/resourceGroups/test-resource-group/providers/Microsoft.MachineLearningServices/workspaces/Franklai-ML-Workspace",
+    "jupyter.jupyterServerType": "local"
+}
